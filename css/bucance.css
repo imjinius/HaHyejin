@@ -1,0 +1,16 @@
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.site {
+    color: #999;
+}
+
+.site:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.content{
+    margin-bottom: 3em;
+}
