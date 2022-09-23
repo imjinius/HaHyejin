@@ -1126,7 +1126,7 @@ a:focus {
     white-space: pre-line;
 }
 
-.skill-name b,i {
+.skill-name b, .skill-name i {
     color: #FF6F61;
 }
 

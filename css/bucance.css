@@ -1,5 +1,6 @@
 body {
     font-family: 'Noto Sans KR', sans-serif;
+    font-size: 18px;
 }
 
 .site {
@@ -15,11 +16,13 @@ body {
     margin-bottom: 3em;
 }
 
-.loading img {
-    width: 1px;
-    height: 1px;
+.role-content {
+    margin-bottom: 2em;
 }
 
-.role-content {
-    margin-bottom: 1.5em;
+.admin {
+    display: block;
+    max-width: 100%;
+    border-radius: 5px;
+    margin: 0 !important;
 }
