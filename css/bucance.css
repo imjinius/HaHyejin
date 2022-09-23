@@ -14,3 +14,12 @@ body {
 .content{
     margin-bottom: 3em;
 }
+
+.loading img {
+    width: 1px;
+    height: 1px;
+}
+
+.role-content {
+    margin-bottom: 1.5em;
+}
