@@ -18,6 +18,11 @@ body {
 
 .role-content {
     margin-bottom: 2em;
+    background-color: #e6e6e6;
+    text-align: center;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    white-space: pre-line;
 }
 
 .admin {
@@ -25,4 +30,8 @@ body {
     max-width: 100%;
     border-radius: 5px;
     margin: 0 !important;
+}
+
+.role-content h2 {
+    font-family: 'Yeon Sung', cursive;
 }
